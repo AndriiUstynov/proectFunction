@@ -200,6 +200,7 @@ function sumFilterGoods( minPrice, maxPrice, category) {
 }
 console.log(sumFilterGoods('1','5','') );
 console.log(sumFilterGoods('','','d'));
+console.log(sumFilterGoods(''));
 
 
 
